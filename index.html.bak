@@ -106,7 +106,7 @@ body,td,th {
             <td>a string of source resolution </td>
           </tr>
         </table>
-        <p>Official dashboard information (<a href="https://www.dropbox.com/s/kgzmuzo0o996xus/dashboard_sample.rar?dl=0">Sample</a>) </p>
+        <p><a href="https://1drv.ms/f/s!AmIBnsiRpA9kgR04jAuzZ3IVH5tv">Official dashboard information</a> (<a href="https://www.dropbox.com/s/kgzmuzo0o996xus/dashboard_sample.rar?dl=0">Sample</a>) </p>
         <table width="600" border="1">
           <tr>
             <td width="243">categorydata.txt</td>
